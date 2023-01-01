@@ -2,7 +2,7 @@
  * replace-value
  * https://github.com/lets-fiware/replace-value-operator
  *
- * Copyright (c) 2019 Kazuhito Suda
+ * Copyright (c) 2019-2023 Kazuhito Suda
  * Licensed under the MIT license.
  */
 
